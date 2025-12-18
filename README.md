@@ -29,4 +29,4 @@ The **Student Grade Calculator** is a simple C++ console application that allows
    - Go to **Build → Build Solution** or press `Ctrl + Shift + B`.  
 4. Run the program:
    - Go to **Debug → Start Without Debugging** or press `Ctrl + F5`.  
-5. Enter the requested information in the console when prompted:
+5. Enter the requested information in the console when prompted
